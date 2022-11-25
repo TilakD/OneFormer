@@ -15,7 +15,7 @@ timm==0.4.12
 gdown
 pytorch_lightning
 tqdm
-scipy==1.8.1
+scipy
 h5py==3.7.0
 submitit==1.4.2
 scikit-image

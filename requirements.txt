@@ -30,4 +30,3 @@ diffdist
 pytorch_lightning
 tqdm
 mmcv
-natten

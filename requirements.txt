@@ -29,6 +29,6 @@ inflect
 diffdist
 pytorch_lightning
 tqdm
-mmcv==1.6.2
+mmcv
 -f https://shi-labs.com/natten/wheels/cu113/torch1.10.1/index.html
-natten==0.14.4
+natten

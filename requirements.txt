@@ -1,6 +1,8 @@
 ninja
 --extra-index-url https://download.pytorch.org/whl
-torch==1.10.1+cu111 torchvision==0.11.2+cu111 torchaudio==0.10.1
+torch==1.10.1+cu111 
+torchvision==0.11.2+cu111 
+torchaudio==0.10.1
 opencv-python
 git+https://github.com/cocodataset/panopticapi.git
 git+https://github.com/mcordts/cityscapesScripts.git
